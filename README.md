@@ -18,3 +18,17 @@ Step 5: Otherwise
 Step 6: Stop
 
 Task2:
+Step 1: Start
+
+Step 2: Initialize variables
+  Set sum = 0
+  Set i = 1
+
+Step 3: Repeat the following steps while i <= 50
+  a) Add i to sum → sum = sum + i
+  b) Increment i by 1 → i = i + 1
+
+Step 4: When the loop ends, display the result
+  Output: "The sum of numbers from 1 to 50 is: [sum]"
+
+Step 5: Stop
